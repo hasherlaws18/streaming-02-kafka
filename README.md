@@ -233,6 +233,10 @@ to delete the topic and recreate it.
 
 </details>
 
+## Changes
+
+Added a new column to the dataset.
+
 ## Notes
 
 - Use the **UP ARROW** and **DOWN ARROW** in the terminal to scroll through past commands.
